@@ -14,7 +14,7 @@ Python · C/C++ · Bash · Pytest · Jenkins · Docker · Git · Linux
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/eduard-sorkin-b85629448/)
+[LinkedIn](https://www.linkedin.com/in/eduard-sorkin)
 
 <!--
 **eso000/eso000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
